@@ -1,0 +1,4 @@
+console=tty0
+panic=10
+loglevel=3
+extraargs=disp.screen0_output_mode=EDID:1280x720p60 hdmi.audio=EDID:0 nozswap nortc
